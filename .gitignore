@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/mm-track-api/.vs
+/mm-track-api/mm-track-api/bin/Debug/net8.0
+/mm-track-api/mm-track-api/obj
